@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pascal_Triangle",
+      "request": "launch",
+      "mainClass": "ArrayList.Pascal_Triangle",
+      "projectName": "Practice_1eb9003a"
+    },
+    {
+      "type": "java",
       "name": "SizeOfString",
       "request": "launch",
       "mainClass": "SizeOfString",
